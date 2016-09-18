@@ -1,6 +1,6 @@
-####Hello World Coding Challenge - Word Counter
+#Hello World Coding Challenge - Word Counter
 
-###Purpose
+##Purpose
 Ever get to a web page and find yourself seeing the same words over and over again. Now we have an app that takes a URL and counts every word and character on the webpage!
 
 1. Create and app that takes a requested webpage via some sort of Input on the browser. The browser should then render all the words on that webpage ordered first by numbers of occurrences and then alphabetical.
@@ -17,7 +17,7 @@ Ever get to a web page and find yourself seeing the same words over and over aga
     3. We should be able to request a count of all the numbers on the page.
     4. We should be able to request a count of all the **first** letters of the words on the page.
     
-###How should you go about this?
+##How should you go about this?
 
 Well we can't give too much away! It is a challenge after all.
 
@@ -27,7 +27,7 @@ The actual style of the interface is 100% up to you, get creative and make it lo
 
 Note: We have set up the repo with ES5 syntax. If you are comfortable or would like a challenge, please refactor using ES6 standards.
 
-## Getting Started
+### Getting Started
 
 ```
 $ git clone https://github.com/HelloWorldStudio/WordCounter
@@ -39,7 +39,7 @@ $ npm start
 
 Now visit [localhost:4000](http://localhost:4000/)
 
-##Helpful Resources
+####Helpful Resources
     
 [Cheerio](https://github.com/cheeriojs/cheerio)
 
