@@ -21,16 +21,9 @@ Ever get to a web page and find yourself seeing the same words over and over aga
 
 Well we can't give too much away! It is a challenge after all.
 
-But we have provided you with all the packages necessary to accomplish this task as well as a basic folder structure for you to use.
-
-You will find jQuery on the front-end with node/Express, Cheerio, and request on the backend. All complex logic should be done on the backend.
-
-You should use jQuery to show the results utilizing Ajax calls. We have provided one as example.
- 
-However, if you are more comfortable in a front-end framework (Angular, React, Backbone, Ember, etc) then **please** use that instead.
+We have provided you with all the packages necessary to accomplish this task as well as a basic folder structure for you to use. You will find jQuery on the front-end with node/Express, Cheerio, and request on the backend. All complex logic should be done on the backend. You should use jQuery to show the results utilizing Ajax calls. We have provided one as example. However, if you are more comfortable in a front-end framework (Angular, React, Backbone, Ember, etc) then **please** use that instead.
 
 The actual style of the interface is 100% up to you, get creative and make it look good! 
-
 
 Note: We have set up the repo with ES5 syntax. If you are comfortable or would like a challenge, please refactor using ES6 standards.
 
@@ -49,9 +42,13 @@ Now visit [localhost:4000](http://localhost:4000/)
 ##Helpful Resources
     
 [Cheerio](https://github.com/cheeriojs/cheerio)
+
 [Request Library] (https://github.com/request/request-promise)
+
 [Routing W/ Express](https://expressjs.com/en/guide/routing.htm)
+
 [Good jQuery Documentation] (http://jqapi.com/) 
+
 [ES6 Reference] (http://es6-features.org/)
 
 
