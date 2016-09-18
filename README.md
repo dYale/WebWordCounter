@@ -25,19 +25,27 @@ We have provided you with all the packages necessary to accomplish this task as 
 
 The actual style of the interface is 100% up to you, get creative and make it look good! 
 
+Don't forget to document and comment your code.
+
 Note: We have set up the repo with ES5 syntax. If you are comfortable or would like a challenge, please refactor using ES6 standards.
 
 ### Getting Started
 
+Fork the repo to your own GitHub account. If you do not have a GitHub account, then this is a great time to make one!
+
 ```
-$ git clone https://github.com/HelloWorldStudio/WordCounter
-$ cd WordCounterJs
+$ git clone https://github.com/{your username}/PreCourseChallenge
+$ cd PreCourseChallenge
 $ npm install
 $ bower install
 $ npm start
 ```
 
 Now visit [localhost:4000](http://localhost:4000/)
+
+###Submission
+
+When you are done with the challenge please make a pull request from **your** GitHub repo to the **HelloWorldStudio** GitHub repo. Please include **YOUR NAME** in the pull request. 
 
 ####Helpful Resources
     
