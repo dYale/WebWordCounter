@@ -1,11 +1,8 @@
 # Word Counter
 
-Now visit [localhost:4000](http://localhost:4000/)
+**Purpose**
 
-
-###Coding Challenge - Word Counter
-
-**Purpose** Ever land on a web page and find yourself seeing the same words over and over again. Now we have an app that takes a URL and counts every word and character on that page!
+Ever land on a web page and find yourself seeing the same words over and over again. Now we have an app that takes a URL and counts every word and character on that page!
 
 Create and app that takes a requested URL via some sort of input on the browser. The browser should then render all the words on that webpage ordered first by numbers of occurrences and then alphabetical. 
 
@@ -39,7 +36,7 @@ Don't forget to comment your code.
 
 Fork the repo to your own GitHub account. If you do not have a GitHub account, then this is a great time to make one!
 
-$ git clone https://github.com/{your username}/WebWordCounter
+$ git clone https://github.com/{your github handle}/WebWordCounter
 $ cd WebWordCounter
 $ npm install
 $ bower install
